@@ -32,3 +32,4 @@ cap.release()
 cv2.destroyAllWindows()
 
 print("여기 바꿈")
+print("여기 다기 바꿈")
